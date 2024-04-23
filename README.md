@@ -63,6 +63,8 @@ The functionality of the classes within the package are documented in both the d
 The package is built for Python 3 and leverages the packages in the `requirements.txt` file. `py_ball` can be installed via pip (more info [here](https://pypi.org/project/py-ball/)):
 ```
 pip install py_ball
+PIL
+cairsvg
 ```
 
 ## Usage
